@@ -12,7 +12,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/cosmetico_vr.png",
       "name_color": "4B69FF",
       "background_color": "1A1D24",
-      "price_category": "1;VLV100",
+      "rareza": "rara",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:gafas;rareza:rara"
@@ -28,7 +28,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/cosmetico_cowboy.png",
       "name_color": "5A5A5A",
       "background_color": "050505",
-      "price_category": "1;VLV500",
+      "rareza": "negra",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:sombrero;rareza:negra"
@@ -44,7 +44,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/cosmetico_viking.png",
       "name_color": "D9DDE4",
       "background_color": "1A1D24",
-      "price_category": "1;VLV200",
+      "rareza": "plateada",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:sombrero;rareza:plateada"
@@ -60,7 +60,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/cosmetico_chef.png",
       "name_color": "B0C3D9",
       "background_color": "1A1D24",
-      "price_category": "1;VLV50",
+      "rareza": "comun",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:sombrero;rareza:comun"
@@ -76,7 +76,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/cosmetico_fedora.png",
       "name_color": "4B69FF",
       "background_color": "1A1D24",
-      "price_category": "1;VLV100",
+      "rareza": "rara",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:sombrero;rareza:rara"
@@ -92,7 +92,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/cosmetico_soldier.png",
       "name_color": "FFC83A",
       "background_color": "1A1D24",
-      "price_category": "1;VLV300",
+      "rareza": "dorada",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:sombrero;rareza:dorada"
@@ -108,7 +108,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/cosmetico_cap2.png",
       "name_color": "B0C3D9",
       "background_color": "1A1D24",
-      "price_category": "1;VLV50",
+      "rareza": "comun",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:sombrero;rareza:comun"
@@ -124,7 +124,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_bala_gold.png",
       "name_color": "FFC83A",
       "background_color": "1A1D24",
-      "price_category": "1;VLV300",
+      "rareza": "dorada",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_bala;rareza:dorada"
@@ -140,7 +140,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_bala_silver.png",
       "name_color": "D9DDE4",
       "background_color": "1A1D24",
-      "price_category": "1;VLV200",
+      "rareza": "plateada",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_bala;rareza:plateada"
@@ -156,7 +156,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_bala_blued.png",
       "name_color": "4B69FF",
       "background_color": "1A1D24",
-      "price_category": "1;VLV100",
+      "rareza": "rara",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_bala;rareza:rara"
@@ -172,7 +172,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_bala_anod_red.png",
       "name_color": "B0C3D9",
       "background_color": "1A1D24",
-      "price_category": "1;VLV50",
+      "rareza": "comun",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_bala;rareza:comun"
@@ -188,7 +188,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_bala_anod_blue.png",
       "name_color": "B0C3D9",
       "background_color": "1A1D24",
-      "price_category": "1;VLV50",
+      "rareza": "comun",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_bala;rareza:comun"
@@ -204,7 +204,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_bala_anod_green.png",
       "name_color": "4B69FF",
       "background_color": "1A1D24",
-      "price_category": "1;VLV100",
+      "rareza": "rara",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_bala;rareza:rara"
@@ -220,7 +220,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_bala_black.png",
       "name_color": "5A5A5A",
       "background_color": "050505",
-      "price_category": "1;VLV500",
+      "rareza": "negra",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_bala;rareza:negra"
@@ -236,7 +236,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_gold.png",
       "name_color": "FFC83A",
       "background_color": "1A1D24",
-      "price_category": "1;VLV300",
+      "rareza": "dorada",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_arma;rareza:dorada"
@@ -252,7 +252,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_silver.png",
       "name_color": "D9DDE4",
       "background_color": "1A1D24",
-      "price_category": "1;VLV200",
+      "rareza": "plateada",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_arma;rareza:plateada"
@@ -268,7 +268,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_blued.png",
       "name_color": "4B69FF",
       "background_color": "1A1D24",
-      "price_category": "1;VLV100",
+      "rareza": "rara",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_arma;rareza:rara"
@@ -284,7 +284,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_anod_red.png",
       "name_color": "B0C3D9",
       "background_color": "1A1D24",
-      "price_category": "1;VLV50",
+      "rareza": "comun",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_arma;rareza:comun"
@@ -300,7 +300,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_anod_blue.png",
       "name_color": "B0C3D9",
       "background_color": "1A1D24",
-      "price_category": "1;VLV50",
+      "rareza": "comun",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_arma;rareza:comun"
@@ -316,7 +316,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_anod_green.png",
       "name_color": "4B69FF",
       "background_color": "1A1D24",
-      "price_category": "1;VLV100",
+      "rareza": "rara",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_arma;rareza:rara"
@@ -332,7 +332,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_black.png",
       "name_color": "5A5A5A",
       "background_color": "050505",
-      "price_category": "1;VLV500",
+      "rareza": "negra",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_arma;rareza:negra"
@@ -348,7 +348,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_cristales_lens_mirror.png",
       "name_color": "D9DDE4",
       "background_color": "1A1D24",
-      "price_category": "1;VLV200",
+      "rareza": "plateada",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_cristales;rareza:plateada"
@@ -364,7 +364,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_cristales_lens_red.png",
       "name_color": "B0C3D9",
       "background_color": "1A1D24",
-      "price_category": "1;VLV50",
+      "rareza": "comun",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_cristales;rareza:comun"
@@ -380,7 +380,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_cristales_lens_blue.png",
       "name_color": "B0C3D9",
       "background_color": "1A1D24",
-      "price_category": "1;VLV50",
+      "rareza": "comun",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_cristales;rareza:comun"
@@ -396,7 +396,7 @@
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_cristales_lens_green.png",
       "name_color": "4B69FF",
       "background_color": "1A1D24",
-      "price_category": "1;VLV100",
+      "rareza": "rara",
       "tradable": true,
       "marketable": true,
       "tags": "tipo:color_cristales;rareza:rara"
@@ -406,7 +406,7 @@
       "type": "item",
       "name": "Caja de suministros",
       "name_spanish": "Caja de suministros",
-      "description": "Se gana jugando. Ábrela en la pestaña Bullet: trae un sombrero, unas gafas o un color de bala, de arma o de cristales (pueden salir repetidos).",
+      "description": "Se gana jugando o en el Taller (10 fragmentos). Ábrela en la pestaña Bullet: trae un sombrero, unas gafas o un color de bala, de arma o de cristales (pueden salir repetidos).",
       "display_type": "caja",
       "icon_url": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/caja.png",
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/caja.png",
@@ -414,7 +414,63 @@
       "background_color": "1A1D24",
       "tradable": true,
       "marketable": true,
-      "tags": "tipo:caja"
+      "tags": "tipo:caja",
+      "exchange": "103x10"
+    },
+    {
+      "itemdefid": 103,
+      "type": "item",
+      "name": "Fragmento",
+      "name_spanish": "Fragmento",
+      "description": "Sale al desarmar objetos repetidos en el Taller. Con 10 fragmentos consigues una Caja de suministros.",
+      "display_type": "fragmento",
+      "icon_url": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/fragmento.png",
+      "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/fragmento.png",
+      "name_color": "9AA4B0",
+      "background_color": "1A1D24",
+      "tradable": false,
+      "marketable": false,
+      "tags": "tipo:fragmento"
+    },
+    {
+      "itemdefid": 110,
+      "type": "bundle",
+      "name": "Desarmar Común",
+      "bundle": "103x1",
+      "exchange": "rareza:comun*1",
+      "hidden": true
+    },
+    {
+      "itemdefid": 111,
+      "type": "bundle",
+      "name": "Desarmar Rara",
+      "bundle": "103x3",
+      "exchange": "rareza:rara*1",
+      "hidden": true
+    },
+    {
+      "itemdefid": 112,
+      "type": "bundle",
+      "name": "Desarmar Plateada",
+      "bundle": "103x8",
+      "exchange": "rareza:plateada*1",
+      "hidden": true
+    },
+    {
+      "itemdefid": 113,
+      "type": "bundle",
+      "name": "Desarmar Dorada",
+      "bundle": "103x20",
+      "exchange": "rareza:dorada*1",
+      "hidden": true
+    },
+    {
+      "itemdefid": 114,
+      "type": "bundle",
+      "name": "Desarmar Negra",
+      "bundle": "103x50",
+      "exchange": "rareza:negra*1",
+      "hidden": true
     },
     {
       "itemdefid": 101,
@@ -429,10 +485,10 @@
       "type": "playtimegenerator",
       "name": "Regalo por jugar",
       "bundle": "100",
-      "drop_interval": 30,
+      "drop_interval": 60,
       "use_drop_window": true,
-      "drop_window": 10080,
-      "drop_max_per_window": 5,
+      "drop_window": 1440,
+      "drop_max_per_window": 1,
       "hidden": true
     }
   ]
