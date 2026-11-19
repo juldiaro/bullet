@@ -340,8 +340,8 @@
     {
       "itemdefid": 2014,
       "type": "item",
-      "name": "Color de bala: Camuflado Baity",
-      "name_spanish": "Color de bala: Camuflado Baity",
+      "name": "Color de bala: Imagina que tienes dos vacas",
+      "name_spanish": "Color de bala: Imagina que tienes dos vacas",
       "description": "Color metalizado para el casquillo o la ojiva de cualquier bala. Rareza: Legendario.",
       "display_type": "color_bala",
       "icon_url": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_bala_camo_baity.png",
@@ -580,8 +580,8 @@
     {
       "itemdefid": 3014,
       "type": "item",
-      "name": "Color de arma: Camuflado Baity",
-      "name_spanish": "Color de arma: Camuflado Baity",
+      "name": "Color de arma: Imagina que tienes dos vacas",
+      "name_spanish": "Color de arma: Imagina que tienes dos vacas",
       "description": "Color para cualquier arma. Rareza: Legendario.",
       "display_type": "color_arma",
       "icon_url": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_camo_baity.png",
