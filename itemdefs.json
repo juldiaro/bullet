@@ -594,6 +594,38 @@
       "tags": "tipo:color_arma;rareza:legendario"
     },
     {
+      "itemdefid": 3015,
+      "type": "item",
+      "name": "Color de arma: Tormenta",
+      "name_spanish": "Color de arma: Tormenta",
+      "description": "Color para cualquier arma. Rareza: Legendario.",
+      "display_type": "color_arma",
+      "icon_url": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_anim_storm.png",
+      "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_anim_storm.png",
+      "name_color": "FFA51F",
+      "background_color": "1A1D24",
+      "rareza": "legendario",
+      "tradable": true,
+      "marketable": true,
+      "tags": "tipo:color_arma;rareza:legendario"
+    },
+    {
+      "itemdefid": 3016,
+      "type": "item",
+      "name": "Color de arma: Humo",
+      "name_spanish": "Color de arma: Humo",
+      "description": "Color para cualquier arma. Rareza: Épico.",
+      "display_type": "color_arma",
+      "icon_url": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_anim_smoke.png",
+      "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/color_arma_anim_smoke.png",
+      "name_color": "9B4DFF",
+      "background_color": "1A1D24",
+      "rareza": "epico",
+      "tradable": true,
+      "marketable": true,
+      "tags": "tipo:color_arma;rareza:epico"
+    },
+    {
       "itemdefid": 4001,
       "type": "item",
       "name": "Color de cristales: Espejo",
@@ -740,7 +772,7 @@
       "itemdefid": 122,
       "type": "generator",
       "name": "Mejorar Raro → Épico",
-      "bundle": "1006x1;2002x1;2003x1;2013x1;3002x1;3003x1;3013x1;4005x1",
+      "bundle": "1006x1;2002x1;2003x1;2013x1;3002x1;3003x1;3013x1;3016x1;4005x1",
       "exchange": "rareza:raro*10",
       "hidden": true
     },
@@ -748,7 +780,7 @@
       "itemdefid": 123,
       "type": "generator",
       "name": "Mejorar Épico → Legendario",
-      "bundle": "1002x1;2001x1;2004x1;2008x1;2014x1;3001x1;3004x1;3008x1;3014x1;4006x1",
+      "bundle": "1002x1;2001x1;2004x1;2008x1;2014x1;3001x1;3004x1;3008x1;3014x1;3015x1;4006x1",
       "exchange": "rareza:epico*10",
       "hidden": true
     },
@@ -756,7 +788,7 @@
       "itemdefid": 101,
       "type": "generator",
       "name": "Contenido de la caja de suministros",
-      "bundle": "1001x20;1002x1;1003x8;1004x40;1005x20;1006x3;1007x40;2000x20;2001x1;2002x3;2003x3;2004x1;2005x40;2006x40;2007x20;2008x1;2009x8;2010x8;2011x8;2012x20;2013x3;2014x1;3000x20;3001x1;3002x3;3003x3;3004x1;3005x40;3006x40;3007x20;3008x1;3009x8;3010x8;3011x8;3012x20;3013x3;3014x1;4001x20;4002x8;4003x40;4004x20;4005x3;4006x1;5001x20",
+      "bundle": "1001x20;1002x1;1003x8;1004x40;1005x20;1006x3;1007x40;2000x20;2001x1;2002x3;2003x3;2004x1;2005x40;2006x40;2007x20;2008x1;2009x8;2010x8;2011x8;2012x20;2013x3;2014x1;3000x20;3001x1;3002x3;3003x3;3004x1;3005x40;3006x40;3007x20;3008x1;3009x8;3010x8;3011x8;3012x20;3013x3;3014x1;3015x1;3016x3;4001x20;4002x8;4003x40;4004x20;4005x3;4006x1;5001x20",
       "exchange": "100x1",
       "hidden": true
     },

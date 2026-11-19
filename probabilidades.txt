@@ -1,6 +1,6 @@
 Probabilidades de la Caja de suministros:
-  Común: 46,8 % (7 objetos)
-  No tan común: 36,8 % (11 objetos)
-  Raro: 10,7 % (8 objetos)
-  Épico: 4,0 % (8 objetos)
-  Legendario: 1,7 % (10 objetos)
+  Común: 46,5 % (7 objetos)
+  No tan común: 36,5 % (11 objetos)
+  Raro: 10,6 % (8 objetos)
+  Épico: 4,5 % (9 objetos)
+  Legendario: 1,8 % (11 objetos)
