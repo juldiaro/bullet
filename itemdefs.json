@@ -402,6 +402,22 @@
       "tags": "tipo:color_cristales;rareza:rara"
     },
     {
+      "itemdefid": 5001,
+      "type": "item",
+      "name": "Explosión: Kamikaze",
+      "name_spanish": "Explosión: Kamikaze",
+      "description": "Explosión al morir para cualquier bala (solo se ve, no hace daño). Rareza: Rara.",
+      "display_type": "explosion",
+      "icon_url": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/explosion_kamikaze.png",
+      "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/explosion_kamikaze.png",
+      "name_color": "4B69FF",
+      "background_color": "1A1D24",
+      "rareza": "rara",
+      "tradable": true,
+      "marketable": true,
+      "tags": "tipo:explosion;rareza:rara"
+    },
+    {
       "itemdefid": 100,
       "type": "item",
       "name": "Caja de suministros",
@@ -476,7 +492,7 @@
       "itemdefid": 101,
       "type": "generator",
       "name": "Contenido de la caja de suministros",
-      "bundle": "1001x20;1002x1;1003x8;1004x40;1005x20;1006x3;1007x40;2001x3;2002x8;2004x20;2005x40;2006x40;2007x20;2008x1;3001x3;3002x8;3004x20;3005x40;3006x40;3007x20;3008x1;4001x8;4002x40;4003x40;4004x20",
+      "bundle": "1001x20;1002x1;1003x8;1004x40;1005x20;1006x3;1007x40;2001x3;2002x8;2004x20;2005x40;2006x40;2007x20;2008x1;3001x3;3002x8;3004x20;3005x40;3006x40;3007x20;3008x1;4001x8;4002x40;4003x40;4004x20;5001x20",
       "exchange": "100x1",
       "hidden": true
     },
@@ -488,7 +504,7 @@
       "drop_interval": 60,
       "use_drop_window": true,
       "drop_window": 1440,
-      "drop_max_per_window": 1,
+      "drop_max_per_window": 7,
       "hidden": true
     }
   ]
