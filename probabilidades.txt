@@ -1,6 +1,6 @@
 Probabilidades de la Caja de suministros:
-  Común: 53,0 % (8 objetos)
-  Rara: 39,7 % (12 objetos)
-  Plateada: 5,3 % (4 objetos)
-  Dorada: 1,5 % (3 objetos)
-  Negra: 0,5 % (3 objetos)
+  Común: 52,4 % (7 objetos)
+  No tan común: 33,7 % (9 objetos)
+  Raro: 9,0 % (6 objetos)
+  Épico: 3,4 % (6 objetos)
+  Legendario: 1,5 % (8 objetos)
