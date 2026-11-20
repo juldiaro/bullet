@@ -774,32 +774,32 @@
       "type": "item",
       "name": "Explosión: Clásica morada",
       "name_spanish": "Explosión: Clásica morada",
-      "description": "Explosión al morir para cualquier bala (solo se ve, no hace daño). Rareza: Raro.",
+      "description": "Explosión al morir para cualquier bala (solo se ve, no hace daño). Rareza: Épico.",
       "display_type": "explosion",
       "icon_url": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/explosion_clasica_morado.png",
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/explosion_clasica_morado.png",
-      "name_color": "3B7BFF",
+      "name_color": "9B4DFF",
       "background_color": "1A1D24",
-      "rareza": "raro",
+      "rareza": "epico",
       "tradable": true,
       "marketable": true,
-      "tags": "tipo:explosion;rareza:raro"
+      "tags": "tipo:explosion;rareza:epico"
     },
     {
       "itemdefid": 5005,
       "type": "item",
       "name": "Explosión: Clásica rosada",
       "name_spanish": "Explosión: Clásica rosada",
-      "description": "Explosión al morir para cualquier bala (solo se ve, no hace daño). Rareza: Raro.",
+      "description": "Explosión al morir para cualquier bala (solo se ve, no hace daño). Rareza: Épico.",
       "display_type": "explosion",
       "icon_url": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/explosion_clasica_rosado.png",
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/explosion_clasica_rosado.png",
-      "name_color": "3B7BFF",
+      "name_color": "9B4DFF",
       "background_color": "1A1D24",
-      "rareza": "raro",
+      "rareza": "epico",
       "tradable": true,
       "marketable": true,
-      "tags": "tipo:explosion;rareza:raro"
+      "tags": "tipo:explosion;rareza:epico"
     },
     {
       "itemdefid": 5006,
@@ -838,32 +838,32 @@
       "type": "item",
       "name": "Explosión: Kamikaze morada",
       "name_spanish": "Explosión: Kamikaze morada",
-      "description": "Explosión al morir para cualquier bala (solo se ve, no hace daño). Rareza: Raro.",
+      "description": "Explosión al morir para cualquier bala (solo se ve, no hace daño). Rareza: Épico.",
       "display_type": "explosion",
       "icon_url": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/explosion_kamikaze_morado.png",
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/explosion_kamikaze_morado.png",
-      "name_color": "3B7BFF",
+      "name_color": "9B4DFF",
       "background_color": "1A1D24",
-      "rareza": "raro",
+      "rareza": "epico",
       "tradable": true,
       "marketable": true,
-      "tags": "tipo:explosion;rareza:raro"
+      "tags": "tipo:explosion;rareza:epico"
     },
     {
       "itemdefid": 5009,
       "type": "item",
       "name": "Explosión: Kamikaze rosada",
       "name_spanish": "Explosión: Kamikaze rosada",
-      "description": "Explosión al morir para cualquier bala (solo se ve, no hace daño). Rareza: Raro.",
+      "description": "Explosión al morir para cualquier bala (solo se ve, no hace daño). Rareza: Épico.",
       "display_type": "explosion",
       "icon_url": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/explosion_kamikaze_rosado.png",
       "icon_url_large": "https://raw.githubusercontent.com/juldiaro/bullet/main/icons/explosion_kamikaze_rosado.png",
-      "name_color": "3B7BFF",
+      "name_color": "9B4DFF",
       "background_color": "1A1D24",
-      "rareza": "raro",
+      "rareza": "epico",
       "tradable": true,
       "marketable": true,
-      "tags": "tipo:explosion;rareza:raro"
+      "tags": "tipo:explosion;rareza:epico"
     },
     {
       "itemdefid": 100,
@@ -892,7 +892,7 @@
       "itemdefid": 121,
       "type": "generator",
       "name": "Mejorar No tan común → Raro",
-      "bundle": "1003x1;2009x1;2010x1;2011x1;3009x1;3010x1;3011x1;4002x1;5002x1;5003x1;5004x1;5005x1;5006x1;5007x1;5008x1;5009x1",
+      "bundle": "1003x1;2009x1;2010x1;2011x1;3009x1;3010x1;3011x1;4002x1;5002x1;5003x1;5006x1;5007x1",
       "exchange": "rareza:no_tan_comun*10",
       "hidden": true
     },
@@ -900,7 +900,7 @@
       "itemdefid": 122,
       "type": "generator",
       "name": "Mejorar Raro → Épico",
-      "bundle": "1006x1;2002x1;2003x1;2013x1;3002x1;3003x1;3013x1;3016x1;4005x1",
+      "bundle": "1006x1;2002x1;2003x1;2013x1;3002x1;3003x1;3013x1;3016x1;4005x1;5004x1;5005x1;5008x1;5009x1",
       "exchange": "rareza:raro*10",
       "hidden": true
     },
@@ -916,7 +916,7 @@
       "itemdefid": 101,
       "type": "generator",
       "name": "Contenido de la caja de suministros",
-      "bundle": "1001x20;1002x1;1003x8;1004x40;1005x20;1006x3;1007x40;2000x20;2001x1;2002x3;2003x3;2004x1;2005x40;2006x40;2007x20;2008x1;2009x8;2010x8;2011x8;2012x20;2013x3;2014x1;3000x20;3001x1;3002x3;3003x3;3004x1;3005x40;3006x40;3007x20;3008x1;3009x8;3010x8;3011x8;3012x20;3013x3;3014x1;3015x1;3016x3;4001x20;4002x8;4003x40;4004x20;4005x3;4006x1;5001x20;5002x8;5003x8;5004x8;5005x8;5006x8;5007x8;5008x8;5009x8",
+      "bundle": "1001x20;1002x1;1003x8;1004x40;1005x20;1006x3;1007x40;2000x20;2001x1;2002x3;2003x3;2004x1;2005x40;2006x40;2007x20;2008x1;2009x8;2010x8;2011x8;2012x20;2013x3;2014x1;3000x20;3001x1;3002x3;3003x3;3004x1;3005x40;3006x40;3007x20;3008x1;3009x8;3010x8;3011x8;3012x20;3013x3;3014x1;3015x1;3016x3;4001x20;4002x8;4003x40;4004x20;4005x3;4006x1;5001x20;5002x8;5003x8;5004x3;5005x3;5006x8;5007x8;5008x3;5009x3",
       "exchange": "100x1",
       "hidden": true
     },
@@ -929,6 +929,14 @@
       "use_drop_window": true,
       "drop_window": 1440,
       "drop_max_per_window": 7,
+      "hidden": true
+    },
+    {
+      "itemdefid": 105,
+      "type": "bundle",
+      "name": "Recompensa del entrenamiento",
+      "bundle": "100x1",
+      "promo": "manual",
       "hidden": true
     }
   ]
